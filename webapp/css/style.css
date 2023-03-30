@@ -1,0 +1,57 @@
+html[dir="ltr"] .myAppDemoWT .myCustomButton.sapMBtn {
+    margin-right: 0.125rem;
+ }
+ 
+ html[dir="rtl"] .myAppDemoWT .myCustomButton.sapMBtn {
+    margin-left: 0.125rem;
+ }
+
+ .myAppDemoWT {
+    background-color: rgba(255, 0, 149, 0.404)
+ }
+
+ .sapMPanelHdr {
+    color:white
+ }
+
+ #__page0-intHeader{
+    top: 10%;
+ }
+
+ #__title0-inner {
+    color:white
+ }
+
+ .sapUiResponsiveMargin {
+    top: 5%;
+    border-radius: 14px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: rgba(255, 0, 149, 0.712);
+}
+
+ .sapMIBar-CTX .sapMTitle {
+    color:rgba(255, 0, 149, 0.849);
+    font-family: 'Trebuchet MS';
+    font-style: oblique;
+    font-size: 40px;
+    text-shadow: 2px 5px 4px rgba(255, 0, 149, 0.404)
+ }
+
+ .myAppDemoWT .myCustomText {
+    font-weight: bold;
+    font-family:'Franklin Gothic Medium', sans-serif;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    text-decoration: overline underline;
+ }
+
+ .myAppDemoWT .myCustomButton  {
+    font-style: oblique;
+    font-family: 'Haettenschweiler', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+    color: rgba(255, 0, 149, 0.712);
+ }
+
