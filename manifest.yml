@@ -1,0 +1,8 @@
+applications:
+- name: tutorial
+  path: .
+  buildpacks:
+    - nodejs_buildpack
+  memory: 256M
+  command: npm start
+  random-route: true
